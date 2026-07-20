@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Archit Tiwari</h1>
+<p align="center">
+  <img src="git_banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 <h3 align="center">Backend & Systems Engineer specializing in scalable data platforms, system-level architecture, and security pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-10&label=Profile%20views&color=0e75b6&style=flat" alt="archit-10" /> </p>
@@ -11,9 +14,9 @@
 
 ### About Me
 
--  I’m currently working on **developing multi-modal biometric systems combining fingerprint, iris, and face data for secure voter authentication with fallback mechanisms.**
--  I’m currently diving deep into **Distributed Consensus Protocols (Raft/Paxos), Advanced Linux Kernel Internals, and eBPF for network observability.**
--  I’m looking to collaborate on **Open-source systems software, low-latency backends, and performance engineering projects.**
+-  Currently working on **multi-modal biometric authentication systems** integrating fingerprint, iris, and facial recognition for secure and resilient voter authentication.
+-  Diving deep into **Distributed Consensus Protocols (Raft/Paxos), Advanced Linux Kernel Internals, and eBPF for network observability.**
+-  Looking to collaborate on **Open-source systems software, low-latency backends, and performance engineering projects.**
 
 - How to reach me **architvnt@gmail.com**
 

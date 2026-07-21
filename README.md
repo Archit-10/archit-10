@@ -31,7 +31,7 @@ Diving deep into:
 - Performance Engineering
 - Real-time Data Processing
 
-## Connect
+## Contact
 
 - **Email:** architvnt@gmail.com
 

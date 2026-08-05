@@ -12,7 +12,7 @@
 
 - Interested in building scalable backend systems, distributed infrastructure, and security-focused platforms.
 
-- Open to collaborating on **open-source systems software, distributed infrastructure, and performance engineering projects.**
+- Open to collaborating on **open-source distributed systems, AI infrastructure, developer platforms, and performance engineering projects.**
 
 ## Currently Learning
 

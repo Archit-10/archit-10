@@ -35,7 +35,9 @@ Diving deep into:
 
 - **Email:** architvnt@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-10&" alt="archit-10" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Archit-10&v=2" alt="GitHub Streak" />
+</p>
 
 
 

@@ -35,9 +35,8 @@ Diving deep into:
 
 - **Email:** architvnt@gmail.com
 
-<p align="center">
+
   <img src="https://streak-stats.demolab.com?user=Archit-10&v=2" alt="GitHub Streak" />
-</p>
 
 
 

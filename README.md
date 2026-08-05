@@ -2,7 +2,7 @@
   <img src="GitHub_banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h3 align="center">Backend & Systems Engineer specializing in scalable data platforms, system-level architecture, and security pipelines.</h3>
+<h3 align="center">Specializing in scalable data platforms, AI-powered developer platforms, system-level architecture, and security pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-10&label=Profile%20views&color=0e75b6&style=flat" alt="archit-10" /> </p>
 
@@ -37,6 +37,7 @@ Diving deep into:
 
 
   <img src="https://streak-stats.demolab.com?user=Archit-10&v=2" alt="GitHub Streak" />
+
 
 
 

@@ -19,12 +19,13 @@
 Diving deep into:
 
 - Distributed Consensus (Raft & Paxos)
-- Linux Kernel Internals
-- eBPF for Network Observability
+- LLM Systems (RAG, MCP, AI Agents)
+- Linux Kernel Internals & eBPF
 
 ## Interests
 
 - Distributed Systems
+- AI Systems & LLM Infrastructure
 - Backend Engineering
 - System Design
 - Security Engineering

@@ -10,7 +10,7 @@
 
 ## Currently Learning
 
-Diving deep into:
+Diving **deep** into:
 
 - Distributed Consensus (Raft & Paxos)
 - LLM Systems (RAG, MCP, AI Agents)

@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Building **multi-modal biometric authentication systems** integrating fingerprint, iris, and facial recognition for secure and resilient voter authentication.
+- Building **production-oriented AI and backend platforms** focused on retrieval, distributed systems, and security.
 - Interested in building scalable backend systems, distributed infrastructure, and security-focused platforms.
 - Open to collaborating on **open-source distributed systems, AI infrastructure, developer platforms, and performance engineering projects.**
 
